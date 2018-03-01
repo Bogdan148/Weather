@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Bodya on 01.03.2018.
+  Copyright © 2018 Bodya. All rights reserved.
+*/
+"Pressure %d hpa" = "Давление %d гПа";
+"Humidity %d %" ="Влажность %d \%";
+"Cloudiness %d %" = "Облачность %d \%";
+"Wind %.2f m/s" = "Ветер %.2f м/с";
+"lenguagueAlert" = "Для смены языка перезагрузите приложение";
+"In %@ temperature is %d°C" = "В %@ температура %d°C";
+"Dnipropetrovsk" = "Днипро";
+"London" = "Лондон";
+"Moscow" = "Москва";
+"Baku" = "Баку";
+"Kiev" = "Киев";
+"Riga" = "Рига";
+"Tokyo" = "Токио";
+"Rome" = "Рим";
+"Paris" = "Париж";
+"Brasilia" = "Бразилиа";
+"Ottawa" = "Отава";
+"Lisbon" = "Лисабон";
+"Dublin" = "Дублин";
+"Budapest" = "Будапешт";
+"Berlin" = "Берлин";
+"Brussels" = "Брюсель";
+"Yerevan" = "Эреван";
+"Tbilisi" = "Тбилиси";
+"Jakarta" = "Джакарта";
+"Bangkok" = "Банкок";
+"Bern" = "Берн";
+"Tunis" = "Тунис";
+"Ankara" = "Анкара";
+"Stockholm" = "Стокгольм";
+"Washington DC." = "Вашингтон";
+"Doha" = "Доха";
+"Cairo" = "Каир";

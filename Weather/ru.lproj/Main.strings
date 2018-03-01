@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Отсутствует подключение к интернету "; ObjectID = "7EO-7R-jch"; */
+"7EO-7R-jch.text" = "Отсутствует подключение к интернету ";
+
+/* Class = "UILabel"; text = "           "; ObjectID = "AFM-uU-DEI"; */
+"AFM-uU-DEI.text" = "           ";
+
+/* Class = "UIButton"; normalTitle = "Применить"; ObjectID = "AFm-0m-KJf"; */
+"AFm-0m-KJf.normalTitle" = "Применить";
+
+/* Class = "UILabel"; text = "Temperature"; ObjectID = "MSs-Ny-Wm6"; */
+"MSs-Ny-Wm6.text" = "Температура";
+
+/* Class = "UILabel"; text = "Cloudiness %"; ObjectID = "NTM-FR-FJ2"; */
+"NTM-FR-FJ2.text" = "Cloudiness %";
+
+/* Class = "UILabel"; text = "     "; ObjectID = "NjH-KE-6QI"; */
+"NjH-KE-6QI.text" = "     ";
+
+/* Class = "UILabel"; text = "wind speed"; ObjectID = "P3A-6j-oya"; */
+"P3A-6j-oya.text" = "wind speed";
+
+/* Class = "UIButton"; normalTitle = "Повторить попытку"; ObjectID = "S0A-V0-sKs"; */
+"S0A-V0-sKs.normalTitle" = "Повторить попытку";
+
+/* Class = "UILabel"; text = "Dnipro"; ObjectID = "UVF-Mi-98X"; */
+"UVF-Mi-98X.text" = "Dnipro";
+
+/* Class = "UILabel"; text = "UA"; ObjectID = "Whd-e6-ARg"; */
+"Whd-e6-ARg.text" = "UA";
+
+/* Class = "UILabel"; text = "descriptionWeather"; ObjectID = "a3y-wq-X3D"; */
+"a3y-wq-X3D.text" = "descriptionWeather";
+
+/* Class = "UIButton"; normalTitle = "Поделиться"; ObjectID = "equ-VH-lvm"; */
+"equ-VH-lvm.normalTitle" = "Поделиться";
+
+/* Class = "UILabel"; text = "      "; ObjectID = "fcj-bN-Vgw"; */
+"fcj-bN-Vgw.text" = "      ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iUQ-Ef-nCk"; */
+"iUQ-Ef-nCk.text" = "Label";
+
+/* Class = "UILabel"; text = "     "; ObjectID = "j2Z-td-ZTO"; */
+"j2Z-td-ZTO.text" = "     ";
+
+/* Class = "UILabel"; text = "Plessure"; ObjectID = "jZl-el-gMV"; */
+"jZl-el-gMV.text" = "Plessure";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "kb6-l6-CkY"; */
+"kb6-l6-CkY.text" = "Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sY5-7R-eB2"; */
+"sY5-7R-eB2.text" = "Label";
+
+/* Class = "UILabel"; text = "Humidity %"; ObjectID = "wbB-NI-07B"; */
+"wbB-NI-07B.text" = "Humidity %";
